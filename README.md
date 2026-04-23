@@ -145,7 +145,7 @@ Dark terminal aesthetic — JetBrains Mono + Syne fonts.
 
 ## 🔗 Live Demo
 
-**[algoviz.vercel.app](https://algoviz.vercel.app)** ← update this after deploy
+**[algoviz.vercel.app](https://algo-viz-one.vercel.app/)
 
 ---
 
