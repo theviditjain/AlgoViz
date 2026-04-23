@@ -152,4 +152,4 @@ Dark terminal aesthetic — JetBrains Mono + Syne fonts.
 ## 👤 Author
 
 **Vidit Jain** — B.Tech CSE  
-[GitHub](https://github.com/theviditjain) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+[GitHub](https://github.com/theviditjain) · [LinkedIn](www.linkedin.com/in/vidit-jain-3322b1299)
