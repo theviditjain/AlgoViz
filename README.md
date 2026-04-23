@@ -145,11 +145,11 @@ Dark terminal aesthetic — JetBrains Mono + Syne fonts.
 
 ## 🔗 Live Demo
 
-**[algoviz.vercel.app](https://algo-viz-one.vercel.app/)
+[algoviz.vercel.app](https://algo-viz-one.vercel.app/)
 
 ---
 
 ## 👤 Author
 
-**Vidit Jain** — B.Tech CSE  
+**Vidit Jain** — B.Tech CSE(Blockchain Technology), VIT Vellore  
 [GitHub](https://github.com/theviditjain) · [LinkedIn](www.linkedin.com/in/vidit-jain-3322b1299)
